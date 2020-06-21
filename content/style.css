@@ -1,0 +1,44 @@
+.navbar.is-success.is-rcso {
+    background-color: #2e3e2b;
+}
+
+.navbar-start a.navbar-item:hover, a.navbar-link:hover, .navbar-start .navbar-link:focus {
+    background-color: #485845 !important;
+}
+
+button.button.is-success.is-rcso {
+    background-color: #2e3e2b;
+}
+
+.column.is-bg {
+    background-color: #2e3e2b;
+    color: white;
+}
+
+section.section.hero.is-rcso {
+    background-color: #2e3e2b;
+}
+
+.column.is-bg label.label {
+    color: white;
+}
+
+a.column.is-link{
+    color: inherit;
+}
+
+.video-wrapper {
+    width: 100%;
+    height: 415px;
+    margin-top: 56px;
+}
+
+.video-wrapper #video {
+    object-fit: cover; 
+    width: 100%; 
+    height: 100%;
+}
+
+#cookie {
+    cursor: pointer;
+}
